@@ -1,103 +1,100 @@
 {
-    "provinces" : 
-    {
-        "name" : [
-            {
-                "name" : "Azuay",
-                "code" : "A"
-            },
-            {
-                "name" : "BOLIVAR",
-                "code" : "A"
-            },
-            {
-                "name" : "CAÑAR",
-                "code" : "A"
-            },
-            {
-                "name" : "CARCHI",
-                "code" : "A"
-            },
-            {
-                "name" : "COTOPAXI",
-                "code" : "A"
-            },
-            {   
-                "name" : "CHIMBORAZO",
-                "code" : "A"
-            },
-            {
-                "name" : "EL ORO",
-                "code" : "A"
-            },
-            {
-                "name" : "ESMERALDAS",
-                "code" : "A"
-            },
-            {
-                "name" : "GUAYAS",
-                "code" : "A"
-            },
-            {
-                "name" : "IMBABURA",
-                "code" : "A"
-            },
-            {   
-                "name" : "LOJA",
-                "code" : "A"
-            },
-            {
-                "name" : "LOS RIOS",
-                "code" : "A"
-            },
-            {
-                "name" : "MANABI",
-                "code" : "A"
-            },
-            {
-                "name" : "MORONA SANTIAGO",
-                "code" : "A"
-            },
-            {
-                "name" : "NAPO",
-                "code" : "A"
-            },
-            {
-                "name" : "PASTAZA",
-                "code" : "A"
-            },
-            {
-                "name" : "PICHINCHA",
-                "code" : "A"
-            },
-            {
-                "name" : "TUNGURAHUA",
-                "code" : "A"
-            },
-            {
-                "name" : "ZAMORA CHINCHIPE",
-                "code" : "A"
-            },
-            {
-                "name" : "GALAPAGOS",
-                "code" : "A"
-            },
-            {
-                "name" : "SUCUMBIOS",
-                "code" : "A"
-            },
-            {
-                "name" : "ORELLANA",
-                "code" : "A"
-            },
-            {
-                "name" : "SANTO DOMINGO DE LOS TSACHILAS",
-                "code" : "A"
-            },
-            {
-                "name" : "SSANTA ELENA",
-                "code" : "A"
-            }
-        ]
-    }
+	"provinces":[
+		{
+			"name":"Azuay",
+			"code":"A"
+		},
+		{
+			"name":"BOLIVAR",
+			"code":"A"
+		},
+		{
+			"name":"CAÑAR",
+			"code":"A"
+		},
+		{
+			"name":"CARCHI",
+			"code":"A"
+		},
+		{
+			"name":"COTOPAXI",
+			"code":"A"
+		},
+		{
+			"name":"CHIMBORAZO",
+			"code":"A"
+		},
+		{
+			"name":"EL ORO",
+			"code":"A"
+		},
+		{
+			"name":"ESMERALDAS",
+			"code":"A"
+		},
+		{
+			"name":"GUAYAS",
+			"code":"A"
+		},
+		{
+			"name":"IMBABURA",
+			"code":"A"
+		},
+		{
+			"name":"LOJA",
+			"code":"A"
+		},
+		{
+			"name":"LOS RIOS",
+			"code":"A"
+		},
+		{
+			"name":"MANABI",
+			"code":"A"
+		},
+		{
+			"name":"MORONA SANTIAGO",
+			"code":"A"
+		},
+		{
+			"name":"NAPO",
+			"code":"A"
+		},
+		{
+			"name":"PASTAZA",
+			"code":"A"
+		},
+		{
+			"name":"PICHINCHA",
+			"code":"A"
+		},
+		{
+			"name":"TUNGURAHUA",
+			"code":"A"
+		},
+		{
+			"name":"ZAMORA CHINCHIPE",
+			"code":"A"
+		},
+		{
+			"name":"GALAPAGOS",
+			"code":"A"
+		},
+		{
+			"name":"SUCUMBIOS",
+			"code":"A"
+		},
+		{
+			"name":"ORELLANA",
+			"code":"A"
+		},
+		{
+			"name":"SANTO DOMINGO DE LOS TSACHILAS",
+			"code":"A"
+		},
+		{
+			"name":"SSANTA ELENA",
+			"code":"A"
+		}
+	]
 }
